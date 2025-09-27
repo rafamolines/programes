@@ -1,0 +1,13 @@
+{
+    "name": "programes/export-alumnes",
+    "description": "Eina per exportar alumnes des d'una base de dades MySQL a un fitxer Excel",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "autoload": {
+        "psr-4": {
+            "Programes\\": "src/"
+        }
+    }
+}
