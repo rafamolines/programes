@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Saltador</string>
+    <string name="title_activity_main">Saltador</string>
+    <string name="package_name">com.exemple.saltador</string>
+    <string name="custom_url_scheme">com.exemple.saltador</string>
+</resources>
