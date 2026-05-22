@@ -1,0 +1,8 @@
+{
+  "appId": "com.exemple.saltador",
+  "appName": "Saltador",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
